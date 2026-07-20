@@ -14,7 +14,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👩‍💻 About Me
 
 AI Engineer specializing in **Large Language Models, Generative AI, RAG, AI Agents, Speech AI, and Computer Vision**. I build production systems that solve real industrial problems — enterprise NLQ platforms, Persian speech intelligence, real-time license plate recognition, and intelligent data quality frameworks.
 
@@ -23,31 +23,6 @@ AI Engineer specializing in **Large Language Models, Generative AI, RAG, AI Agen
 - 👁️ **Computer Vision** — YOLO-based detection and Persian OCR for industrial access control
 - 📊 **Financial AI** — fraud analytics, graph analytics, and time-series forecasting
 - 🐍 Python end-to-end — from research notebooks to containerized microservices
-
-Currently at **Iran Mercantile Exchange (IME)**, building enterprise AI for finance, oil, and petrochemical industries. Also teaching AI at **Irancell** and **Pasargad Energy**.
-
----
-
-## 👋 Who am I?
-
-I'm an **AI Engineer** at **IME**, building practical AI solutions for **finance, oil, and petrochemical** industries. I specialize in **LLM-powered agents**, **SQL interfaces**, and **computer vision** — turning research into tools that solve real industrial problems.
-
-- 🤖 Building **local SQL agents** that let you query databases in plain English — no API keys, no data leaving your machine
-- 👁️ Building **car and plate detection** systems with computer vision
-- 📊 Developing **ML & data pipelines** for financial forecasting and analysis
-- 🐍 Python end-to-end — from research notebooks to deployed services
-- 🌍 Based in **Tehran, Iran** — solving local problems with global tooling
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Melika's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelikaBahmanabadi&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MelikaBahmanabadi&layout=compact&hide_border=true)
-
-</div>
 
 ---
 
@@ -58,16 +33,17 @@ I'm an **AI Engineer** at **IME**, building practical AI solutions for **finance
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![MATLAB](https://img.shields.io/badge/MATLAB-%23E16737.svg?style=flat-square&logo=mathworks&logoColor=white)
 
-**ML / AI**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat-square&logo=opencv&logoColor=white)
+**Focus Areas**
+
+![Production LLM Apps](https://img.shields.io/badge/Production_LLM_Apps-6C5CE7?style=flat-square&logo=openai&logoColor=white)
+![Enterprise NLP](https://img.shields.io/badge/Enterprise_NLP-00B894?style=flat-square&logo=sparkfun&logoColor=white)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-0984E3?style=flat-square&logo=bot&logoColor=white)
+![Persian Speech AI](https://img.shields.io/badge/Persian_Speech_AI-E17055?style=flat-square&logo=transform&logoColor=white)
+![Computer Vision & OCR](https://img.shields.io/badge/Computer_Vision_%26_OCR-00CEC9?style=flat-square&logo=opencv&logoColor=white)
+![MLOps & Deployment](https://img.shields.io/badge/MLOps_%26_Deployment-FD79A8?style=flat-square&logo=githubactions&logoColor=white)
+![Docker & Kubernetes](https://img.shields.io/badge/Docker_%26_Kubernetes-0984E3?style=flat-square&logo=docker&logoColor=white)
 
 **LLMs & Agents**
 
@@ -83,41 +59,15 @@ I'm an **AI Engineer** at **IME**, building practical AI solutions for **finance
 
 ---
 
-## 📦 Featured Projects
-
-### 🤖 ML & AI
+## 📦 Pinned Projects
 
 | Project | Description |
 |---|---|
-| 🗣️ [asr](https://github.com/MelikaBahmanabadi/asr) | Automatic Speech Recognition system — processing and transcribing audio with deep learning |
-| 📊 [Classification-Deploy](https://github.com/MelikaBahmanabadi/Classification-Deploy) | ML classification pipeline with deployment-ready inference |
-| 🔬 [BreastCancer](https://github.com/MelikaBahmanabadi/BreastCancer) | ML-based breast cancer classification model |
-| 🔍 [LSH-MinHashing](https://github.com/MelikaBahmanabadi/LSH-MinHashing) | Locality-Sensitive Hashing & MinHash for big-data similarity search |
-
-### 🗣️ NLP & Semantic Web
-
-| Project | Description |
-|---|---|
-| 📝 [SubtitleEnrichment](https://github.com/MelikaBahmanabadi/SubtitleEnrichment) | Enrich video subtitles with semantic web & NLP — Python, Django, d3.js |
-
-### 💬 Bots & Automation
-
-| Project | Description |
-|---|---|
-| 🤖 [InstagramChatBot](https://github.com/MelikaBahmanabadi/InstagramChatBot) | Instagram automation bot — programmatic chat and interaction |
-
-### 🛠️ Developer Tools
-
-| Project | Description |
-|---|---|
-| 🖼️ [PyQt](https://github.com/MelikaBahmanabadi/PyQt) | Collection of practical PyQt widgets for desktop GUI applications |
-| 🔄 [HTMLtoJSON](https://github.com/MelikaBahmanabadi/HTMLtoJSON) | Convert HTML content to structured JSON format |
-
-### 📊 Data & Visualization
-
-| Project | Description |
-|---|---|
-| 🌦️ [Travel-Rainfall](https://github.com/MelikaBahmanabadi/Travel-Rainfall) | Travel and rainfall data analysis with interactive visualizations |
+| 📚 [learning-log](https://github.com/MelikaBahmanabadi/learning-log) | Structured deep-dive notes, flashcards, and spaced-repetition tracking across ML, math, and engineering. Built for interview-grade mastery. |
+| 🗣️ [local-sql-agent](https://github.com/MelikaBahmanabadi/local-sql-agent) | Query SQL Server in plain English using a fully local Gemma 3 agent — no API key, no data leaves your machine. |
+| 📊 [missingly](https://github.com/MelikaBahmanabadi/missingly) | Missing data diagnosis, visualization, and imputation for pandas — fluent `df.miss` accessor, sklearn Pipeline support, MICE, and time-series gap analysis. |
+| 🔉 [asr](https://github.com/MelikaBahmanabadi/asr) | Automatic Speech Recognition system — processing and transcribing audio with deep learning. |
+| 📥 [smart-dl](https://github.com/MelikaBahmanabadi/smart-dl) | Resilient YouTube & podcast downloader for unstable networks, VPNs, and restricted environments. |
 
 ---
 
